@@ -1,0 +1,8 @@
+# Ignore all image files
+*.jpg
+
+# Ignore the caption file
+captions.txt
+
+# Ignore model directory
+*.h5
