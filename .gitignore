@@ -6,3 +6,6 @@ captions.txt
 
 # Ignore model directory
 *.h5
+
+# Ignore .pkl files
+*.pkl
